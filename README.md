@@ -7,7 +7,7 @@ This is a **React Dockerized Application** with a simple CI/CD workflow.
 ![Output](output/output_2.png)
 ![Output](output/output_3.png)
 ![Output](output/output_4.png)
-![Output](output/output_5.png)
+![Output](output/output_5.png).
 ![Output](output/output_6.png)
 
 ## 🚀 Features
