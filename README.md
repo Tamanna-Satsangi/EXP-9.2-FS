@@ -11,7 +11,7 @@ This is a **React Dockerized Application** with a simple CI/CD workflow.
 ![Output](output/output_6.png)
 
 ## 🚀 Features
-- Multi-stage Docker build for smaller images  
+- Multi-stage Docker build for smaller images  .
 - Nginx-based static hosting  
 - GitHub Actions CI/CD ready (renamed folder for upload visibility)
 
